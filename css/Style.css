@@ -1,0 +1,81 @@
+body {
+  background-color: #b8fff9;
+  margin: 0px;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+}
+h1 {
+  margin-top: 0px;
+  font-family: "Roboto", sans-serif;
+}
+h2 {
+  font-family: "Shadows Into Light", cursive;
+}
+h3 {
+  font-family: "Shadows Into Light", cursive;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 4px;
+  color: gray;
+  width: 10%;
+}
+/*************************************Class**********************************************************/
+.primeiro {
+  padding-top: 100px;
+}
+
+.Nuvem-1 {
+  position: absolute;
+  top: 50px;
+  right: 290px;
+}
+.Nuvem-2 {
+  position: absolute;
+}
+.Sub-titulo {
+  font-family: "Shadows Into Light", cursive;
+}
+.btn {
+  border: outset 2px;
+  border-color: #85f4ff;
+  font-family: "Roboto", sans-serif;
+  position: relative;
+  font-size: 20px;
+  padding: 10px;
+  text-decoration: none;
+}
+.Twitter {
+  color: black;
+  text-decoration: none;
+  position: absolute;
+  left: 61%;
+  font-size: 20px;
+}
+.div-links {
+  background-color: #85f4ff;
+  padding-bottom: 2px;
+  position: absolute;
+  width: 100%;
+}
+.Linkedin {
+  text-decoration: none;
+  position: absolute;
+  left: 33%;
+  top: 5px;
+  font-size: 20px;
+  color: black;
+}
+.Portifolio {
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+  position: absolute;
+  left: 47%;
+  top: 5px;
+}
+.tag {
+  position: relative;
+  
+}
